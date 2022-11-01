@@ -1,5 +1,5 @@
 # IBM-Project-14931-1659592370
-Smart Fashion Recommender Application
+SMART FASHION RECOMMENDER APPLICATION
 
 TEAM MEMBERS:
 
