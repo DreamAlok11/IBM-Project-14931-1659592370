@@ -2,6 +2,7 @@
 Smart Fashion Recommender Application
 
 TEAM MEMBERS:
+
 TEAM LEAD:R SUJI PRIYA
 
 TEAM MEMBER 1: G SELVANAYAKI
